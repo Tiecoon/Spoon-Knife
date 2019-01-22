@@ -1,0 +1,1 @@
+My current project B7 started to go through reorganization. I prefer a main repo that people contribute too with a blessed master branch that is protected. The master branch being used in production and being code that has to be reviewed. Being merged in by branched built to address issues.
